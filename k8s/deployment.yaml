@@ -16,4 +16,4 @@ spec:
         - name: springboot
           image: IMAGE_PLACEHOLDER
           ports:
-            - containerPort: 8040
+            - containerPort: 8080
